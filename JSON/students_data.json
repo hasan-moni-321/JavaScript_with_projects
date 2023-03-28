@@ -1,0 +1,40 @@
+{
+    "students": [
+        {
+            "name": "Hasan Moni", 
+            "middle_name": null, 
+            "age": 28,
+            "cgpa": 3.46, 
+            "is_registered": true, 
+            "language": ["bengali", "english", "hindi"], 
+            "friends": [
+                {
+                    "name": "javed", 
+                    "age": 27
+                }, 
+                {
+                    "name": "farid", 
+                    "age": 27
+                } 
+            ]
+        }, 
+        {
+            "name": "Rana", 
+            "middle_name": null, 
+            "age": 33, 
+            "cgpa": 3.96, 
+            "is_registered": false, 
+            "language": ["bengali", "english", "hindi", "urdu"], 
+            "friends": [
+                {
+                    "name": "shuvo", 
+                    "age": 34
+                }, 
+                {
+                    "name": "mustafa", 
+                    "age": 33
+                }
+            ]
+        }
+    ]
+}
